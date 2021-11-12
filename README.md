@@ -1,5 +1,5 @@
 <!-- GETTING STARTED -->
-## My_readline
+## Readline Implementation
 ### Task Description
 
 The function my_readline reads a line from the stream represented by fd and returns it into an allocated string. It stops when either the newline character is read or when the end-of-file is reached, whichever comes first. The newline character is not copied to the string.
